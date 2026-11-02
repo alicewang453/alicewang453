@@ -6,7 +6,7 @@ Most recently I was a data engineer at [@bloomberg](https://github.com/bloomberg
 
 These days I'm looking for my next software or data engineering role, and building a 2000s-style dress-up game in React, ink-drawn paper doll and all.
 
-Outside of coding, you'll find me reading, watching movies, baking, making matcha 🍵 or hanging out with my dog 🐶. I also love learning languages. I speak Chinese and French, and ASL is next on my list.
+Outside of coding, you'll find me reading, watching movies, baking, making matcha 🍵 or hanging out with my dog 🐶. I also love learning languages. I speak Chinese, and right now I'm learning French and ASL.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/alicewang453/)!
 
