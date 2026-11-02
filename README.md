@@ -1,4 +1,4 @@
-# Hi!
+# Hi!:sparkles:
 
 I'm Alice, a software engineer who likes building things that are a little bit playful.
 
