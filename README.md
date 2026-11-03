@@ -4,11 +4,11 @@ I'm Alice, a software engineer who likes building things that are a little bit p
 
 Most recently I was a data engineer at [@bloomberg](https://github.com/bloomberg), where I built Python pipelines that get SEC ownership filings onto the Bloomberg Terminal as soon as they come in. Before that I studied computer science at Columbia and made everything from a programming language compiler to a personality quiz that runs on sound.
 
-These days I'm looking for my next software or data engineering role, and building a 2000s-style dress-up game in React, avatar and all.
+These days I'm looking for my next software or data engineering role, and building a 2000s-style dress-up game in React for fun.
 
-Outside of coding, you'll find me reading, watching movies, baking, or hanging out with my dog. I also love learning languages! I speak Chinese and am currently learning French and ASL.
+Outside of coding, I love reading, watching movies, baking, or chilling with my dog. I also love learning languages; I speak Chinese and am currently learning French and ASL.
 
-Let's connect!
+Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alicewang453/)
 
