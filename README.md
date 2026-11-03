@@ -1,6 +1,6 @@
 # Hi! :sparkles:
 
-I'm Alice, a software engineer with a data background who likes building playful, interactive products.
+I'm Alice, a software engineer who likes building things that are a little bit playful.
 
 Most recently I was a data engineer at [@bloomberg](https://github.com/bloomberg), where I built Python pipelines that get SEC ownership filings onto the Bloomberg Terminal as soon as they come in. Before that I studied computer science at Columbia and made everything from a programming language compiler to a personality quiz that runs on sound.
 
