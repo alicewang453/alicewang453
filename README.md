@@ -8,7 +8,9 @@ These days I'm looking for my next software or data engineering role, and buildi
 
 Outside of coding, you'll find me reading, watching movies, baking, or hanging out with my dog. I also love learning languages! I speak Chinese and am currently learning French and ASL.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/alicewang453/)!
+Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alicewang453/)
 
 ## Some things I've made
 
