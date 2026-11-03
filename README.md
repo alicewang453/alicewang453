@@ -6,7 +6,7 @@ Most recently I was a data engineer at [@bloomberg](https://github.com/bloomberg
 
 These days I'm looking for my next software or data engineering role, and building a 2000s-style dress-up game in React for fun.
 
-Outside of coding, I love reading, watching movies, baking, or chilling with my dog. I also love learning languages; I speak Chinese and am currently learning French and ASL.
+Outside of coding, I love reading, watching movies, baking, or chilling with my dog (peep the profile pic). I also love learning languages; I speak Chinese and am currently learning French and ASL.
 
 Connect with me!
 
